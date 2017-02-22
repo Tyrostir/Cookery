@@ -1,2 +1,2 @@
 # Cookery
-Android App describing the Recipe preparation methods
+Describing the Recipe preparation methods
